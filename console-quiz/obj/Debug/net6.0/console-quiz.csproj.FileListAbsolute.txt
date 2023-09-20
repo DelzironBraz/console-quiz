@@ -1,0 +1,14 @@
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\bin\Debug\net6.0\console-quiz.exe
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\bin\Debug\net6.0\console-quiz.deps.json
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\bin\Debug\net6.0\console-quiz.runtimeconfig.json
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\bin\Debug\net6.0\console-quiz.dll
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\bin\Debug\net6.0\console-quiz.pdb
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\obj\Debug\net6.0\console-quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\obj\Debug\net6.0\console-quiz.AssemblyInfoInputs.cache
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\obj\Debug\net6.0\console-quiz.AssemblyInfo.cs
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\obj\Debug\net6.0\console-quiz.csproj.CoreCompileInputs.cache
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\obj\Debug\net6.0\console-quiz.dll
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\obj\Debug\net6.0\refint\console-quiz.dll
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\obj\Debug\net6.0\console-quiz.pdb
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\obj\Debug\net6.0\console-quiz.genruntimeconfig.cache
+C:\Users\delzi\OneDrive\Documents\console-quiz\console-quiz\obj\Debug\net6.0\ref\console-quiz.dll
